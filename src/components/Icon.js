@@ -5,7 +5,7 @@ function Icon({name}){
     switch (name) {
         case 'circle':
             return <FaRegCircle className="icon"/>
-        case 'circle':
+        case 'cross':
             return <FaTimes className="icon"/>
         default :
            return <FaPen className="icon"/>
