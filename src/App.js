@@ -104,7 +104,7 @@ function App() {
   }
   return (
     <Container className="P-5">
-      <h1 className="text-center text-success">TIC-TAC-TOE GAME</h1>
+      <h1 className="text-center text-success">TIC-TAC-TOE GAME Using ReactJs State</h1>
       <ToastContainer position="bottom-center"/>
       <Row>
         <Col md={6} className="offset-md-3">
