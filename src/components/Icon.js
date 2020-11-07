@@ -1,6 +1,7 @@
 import React from 'react';
 import {FaTimes ,FaPen, FaRegCircle} from "react-icons/fa";
 
+//Icon function calling here
 function Icon({name}){
     switch (name) {
         case 'circle':
